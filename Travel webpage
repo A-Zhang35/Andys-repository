@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+             h2 {
+            color: green;
+        }  
+            .text{
+                color: black;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ....</h1>
+        <h2> Hawaii</h2>
+        <p class = "text">Hawaii, a U.S. state, is an isolated volcanic archipelago in the Central Pacific. Its islands are renowned for their rugged landscapes of cliffs, waterfalls, tropical foliage and beaches with gold, red, black and even green sands. Of the 6 main islands, Oahu has Hawaii’s biggest city and capital, Honolulu, home to crescent Waikiki Beach and Pearl Harbor's WWII memorials.</p>
+        <ul>
+            <li>Weather
+            <li>Beaches
+            <li>Swimming
+        </ul>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png">
+        <img src = "https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png">
+        <h2> China </h2>
+        <p class= "text"> China is a populous nation in East Asia whose vast landscape encompasses grassland, desert, mountains, lakes, rivers and more than 14,000km of coastline. Capital Beijing mixes modern architecture with historic sites such as the Forbidden City palace complex and Tiananmen Square. Shanghai is a skyscraper-studded global financial center. The iconic Great Wall of China runs east-west across the country's north.</p>
+        <ul>
+            <li>Great wall
+            <li> Food
+            <li> Culture
+        </ul>
+        <img src= "https://www.kasandbox.org/programming-images/landscapes/lotus-garden.png">
+    </body>
+</html>
